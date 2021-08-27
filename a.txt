@@ -1,1 +1,2 @@
-这一行是分支fenzhi2的a.txt 
+这一行是分支fenzhi2的a.txt
+这是主线分支的内容a.txt第二行
