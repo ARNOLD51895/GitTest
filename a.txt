@@ -16,3 +16,4 @@ Stashed changes
 b229bd6 (20210830a更新)
 测试restore
 14.46min 测试远端拉取
+测试add-A命令
